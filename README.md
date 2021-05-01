@@ -6,6 +6,6 @@ You also don't need to give any credits.
 
 ## Including Snippets
 
-Snippet Name | Snippet Description
--------------|--------------------
-[DatabaseUtil] | Loads a JSON from the web and uses it as a Database.
+Snippet Name | Snippet Description | Snippet Path
+-------------|---------------------|-------------
+DatabaseUtil | Loads a JSON from the web and uses it as a Database. | jsonreader/DatabaseUtil.java
